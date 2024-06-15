@@ -14,7 +14,7 @@ Este proyecto está enfocado en el análisis de la potabilidad de muestras de ag
 
 ## Dataset
 
-![Water Potability Prediction, By: Gaurav Dutta](https://www.kaggle.com/datasets/gauravduttakiit/water-potability-prediction/data)
+[Water Potability Prediction, By: Gaurav Dutta](https://www.kaggle.com/datasets/gauravduttakiit/water-potability-prediction/data)
 
 ## Modelos
 
@@ -22,7 +22,7 @@ Este proyecto está enfocado en el análisis de la potabilidad de muestras de ag
 
 ## Codigo
 
-![Codigo del proyecto de potabilidad del agua](Potabilidad_del_agua_IA1_20241/Proyecto_IA_20241.ipynb)
+[Codigo del proyecto de potabilidad del agua](Potabilidad_del_agua_IA1_20241/Proyecto_IA_20241.ipynb)
 
 ## Video
 
