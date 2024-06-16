@@ -18,7 +18,7 @@ Este proyecto está enfocado en el análisis de la potabilidad de muestras de ag
 
 ## Modelos
 
-
+Potabilidad, Media, Desviación ,Clasificación, Regresión, Deep Learning, Accuracy, Metricas, DesitionTree, RandomForest, Support Vector Machine.
 
 ## Codigo
 
