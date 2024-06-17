@@ -26,3 +26,4 @@ Potabilidad, Media, Desviación ,Clasificación, Regresión, Deep Learning, Accu
 
 ## Video
 
+[Video de presentacion de proyecto Potabilidad del agua](https://youtu.be/G6TttJn6xZw)
